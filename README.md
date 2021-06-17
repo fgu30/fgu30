@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Feng's GitHub stats](https://github-readme-stats-beta-blush.vercel.app/api?username=fgu30)](github-readme-stats-beta-blush.vercel.app)
 
-[![Top Langs](https://github-readme-stats-beta-blush.vercel.app/api/top-langs/?username=fgu30&langs_count=8)](https://github-readme-stats-beta-blush.vercel.app)
+[![Top Langs](https://github-readme-stats-beta-blush.vercel.app/api/top-langs/?username=fgu30&langs_count=8&count_private=true&layout=compact)](https://github-readme-stats-beta-blush.vercel.app)
 
 
